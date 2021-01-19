@@ -1,0 +1,22 @@
+body 
+{
+    margin: 0;    
+}
+ul{
+    margin: 0;    
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    
+}
+
+li:hover 
+{
+    color: pink;
+    cursor: pointer;
+}

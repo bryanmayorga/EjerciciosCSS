@@ -1,0 +1,31 @@
+body {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(49, 43, 43);
+    background-color: rgb(219, 228, 231);
+    line-height: 1.5;
+}
+h2 
+{
+    background-color: rgb(102, 158, 196);
+}
+
+h3
+{
+    background-color: rgb(58, 174, 219);
+}
+    
+ol 
+{
+    background-color: rgb(130, 199, 204);
+}
+
+table
+{
+    background-color: rgb(204, 203, 130);
+}
+
+p
+{
+    background-color: rgb(224, 167, 167);
+}
